@@ -1,0 +1,24 @@
+{
+  "PartyFile": "Party File",
+  "AgendaCeremony": "Agenda Ceremony",
+  "Menu": "Menu",
+  "CeremonySurvey": "Ceremony Survey",
+  "AboutMuntajat": "About Muntajat",
+
+  "MuntajatAnnualTitle": "Muntajat Annual Ceremony Survey",
+  "MuntajatAnnualDes": "We appreciate and valuable time in filling out the questionnaire to measure your feedback and suggestions regarding to ceremony 2025.",
+  "Sharek": "“Sharek”",
+  "rateHint": "Please rate by choosing options from 1 to 5, where option 1 means “Poor” and 5 means “Excellent”",
+  "q1": "How satisfied are you with the time and venue of the ceremony?",
+  "q2": "How satisfied are you with the ceremony agenda?",
+  "q3": "What do you think about Muntajat platform updates?",
+  "q4": "What do you think about Ship Go updates?",
+  "note": "Do you have any comments or suggestions regarding the ceremony?",
+  "noteHolder": "Write your notes here..",
+  "confirm": "Confirm",
+
+  "rateRequired": "Please rate this !",
+  "noteMax": "You can write a maximum of 500 characters",
+  "formSuccess": "Survey submitted successfully",
+  "formError" : "Something went wrong !"
+}
