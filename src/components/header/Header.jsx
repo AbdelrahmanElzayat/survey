@@ -1,9 +1,9 @@
 import React from "react";
 import ChangeLang from "../changeLang/ChangeLang";
 
-const Header = () => {
+const Header = (props) => {
   return (
-    <header >
+    <header className={props.class}>
       <ChangeLang />
     </header>
   );

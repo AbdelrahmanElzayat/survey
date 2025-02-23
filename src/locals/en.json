@@ -20,5 +20,8 @@
   "rateRequired": "Please rate this !",
   "noteMax": "You can write a maximum of 500 characters",
   "formSuccess": "Survey submitted successfully",
-  "formError" : "Something went wrong !"
+  "formError": "Something went wrong !",
+
+  "business_elite_survey": "Business Elite Forum Survey in the Pet Care Sector",
+  "survey_appreciation": "We appreciate and value your precious time in filling out the survey to measure your opinions and suggestions regarding the Business Elite Forum in the Pet Care Sector."
 }
